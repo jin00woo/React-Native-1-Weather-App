@@ -1,2 +1,2 @@
-# React-Native-1-Weather-App-
+# React-Native-1-Weather-App
 First project using React Native
